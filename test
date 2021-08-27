@@ -1,4 +1,4 @@
-    <ul>
+    <ul class="quicklinks-links-list">
       <li>Buscadores
         <ul>
           <li><a href="http://www.bing.com/" target="_blank">Bing</a></li>
@@ -6,7 +6,7 @@
         </ul>
       </li>
       <li>Redes sociales
-        <ul>
+        <ul class="quicklinks-links-list">
           <li><a href="http://www.facebook.com/" target="_blank">Facebook</a></li>
           <li><a href="http://www.twitter.com/" target="_blank">Twitter</a></li>
         </ul>
