@@ -4,4 +4,9 @@
           <li><a href="http://www.bing.com/" target="_blank">Bing</a></li>
           <li><a href="http://www.google.com/" target="_blank">Google</a></li>
     </ul>
+        <ul class="quicklinks-links-list">
+        <h6 class="list-label">Navegación</h6>
+          <li><a href="http://www.bing.com/" target="_blank">Bing</a></li>
+          <li><a href="http://www.google.com/" target="_blank">Google</a></li>
+    </ul>
 </div>
