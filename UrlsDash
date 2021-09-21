@@ -1,8 +1,8 @@
 <div class="quicklinks-dashboard-item">
     <ul class="quicklinks-links-list">
         <h6 class="list-label">Navegación</h6>
-          <li><a href="http://www.bing.com/" target="_blank">Bing</a></li>
-          <li><a href="http://www.google.com/" target="_blank">Google</a></li>
+          <li><a href="https://loganalytics.grupocatalanaoccidente.com/app/dashboards#/view/fe1ebb10-74de-11ea-91de-f719ce3307da" target="_blank">Errores PRE</a></li>
+          <li><a href="https://loganalytics.grupocatalanaoccidente.com/app/dashboards#/view/8c666c20-0a0c-11eb-8893-8550db941b43?_g=h@f7fb346" target="_blank">IIS PRE</a></li>
     </ul>
         <ul class="quicklinks-links-list">
         <h6 class="list-label">Navegación</h6>
