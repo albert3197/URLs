@@ -1,12 +1,19 @@
 <div class="quicklinks-dashboard-item">
     <ul class="quicklinks-links-list">
-        <h6 class="list-label">Navegación</h6>
+        <h6 class="list-label">Kibana</h6>
           <li><a href="https://loganalytics.grupocatalanaoccidente.com/app/dashboards#/view/fe1ebb10-74de-11ea-91de-f719ce3307da" target="_blank">Errores PRE</a></li>
           <li><a href="https://loganalytics.grupocatalanaoccidente.com/app/dashboards#/view/8c666c20-0a0c-11eb-8893-8550db941b43?_g=h@f7fb346" target="_blank">IIS PRE</a></li>
     </ul>
         <ul class="quicklinks-links-list">
         <h6 class="list-label">Navegación</h6>
-          <li><a href="http://www.bing.com/" target="_blank">Bing</a></li>
-          <li><a href="http://www.google.com/" target="_blank">Google</a></li>
+          <li><a href="https://portalaie.gco.global/Portales/PortaldeInformatica/AplicacionesInternasdeInformatica/consultadeartefactos/Paginas/default.aspx" target="_blank">Artefactos</a></li>
+          <li><a href="https://portalintranetprepersa.gco.global/sitios/proyectosinformaticos/Lists/Operativas/AllItems.aspx" target="_blank">Deploys</a></li>
+          <li><a href="https://grupoaplicaciones.gco.global/FE/ISF.AplCol.Jira.FE.CopiaCylSQLServer/#" target="_blank">Peticiones SQL</a></li>
+    </ul>
+    <ul class="quicklinks-links-list">
+        <h6 class="list-label">Micro</h6>
+        <li><a href="https://dsiportal.gco.global/MicroStrategy/asp/Main.aspx?evt=3001&src=Main.aspx.3001&Port=0&" target="_blank">Micro desarrollo</a></li>
+        <li><a href="https://siportal.gco.global/MicroStrategy/asp/Main.aspx" target="_blank">Micro producción</a></li>      
+          
     </ul>
 </div>
